@@ -6,6 +6,7 @@
 
 
     <div class="container mt-5 ">
+        <!-- some text here its just comments -->
         <h2 class="text-center mb-4">Class</h2>
         <div class="d-flex justify-content-center col-12" >
             <div class="row " >
